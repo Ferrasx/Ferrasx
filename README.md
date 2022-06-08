@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/gabriel-martins-ferraz//)
 
 <div>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel Ferraz &show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel Ferraz&layout=compact&langs_count=7&theme=dark"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerraz &show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerraz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 

@@ -4,7 +4,7 @@
 
 <div>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFerraz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielFerraz)](https://github.com/Ferrasx/Projeto-node-ts)
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielFerraz)
 </div>
 
 
